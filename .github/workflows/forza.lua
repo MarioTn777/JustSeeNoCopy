@@ -1,1 +1,1 @@
-gg.alert("HyGalagar")
+Hello
