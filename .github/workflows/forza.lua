@@ -1,1 +1,1 @@
-gg.alert(HyMario)
+gg.alert("HyMario")
