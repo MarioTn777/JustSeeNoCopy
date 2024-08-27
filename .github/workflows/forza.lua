@@ -1,1 +1,1 @@
-gg.alert("HyGODEL")
+gg.alert("HyGalagar")
