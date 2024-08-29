@@ -1,1 +1,1 @@
-gg.alert("hello123")
+gg.alert("hello777")
